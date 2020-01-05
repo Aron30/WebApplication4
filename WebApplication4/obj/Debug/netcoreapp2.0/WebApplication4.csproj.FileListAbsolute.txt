@@ -9,3 +9,4 @@ C:\Users\Андрей\Source\Repos\WebApplication4\WebApplication4\obj\Debug\net
 C:\Users\Андрей\Source\Repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.AssemblyInfo.cs
 C:\Users\Андрей\Source\Repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.dll
 C:\Users\Андрей\Source\Repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.pdb
+C:\Users\Андрей\Source\Repos\WebApplication4\WebApplication4\obj\Debug\netcoreapp2.0\WebApplication4.csprojAssemblyReference.cache
