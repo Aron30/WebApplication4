@@ -12,12 +12,12 @@ namespace WebApplication4.Controllers
     {
         public IActionResult Index()
         {
-            return View();  // comment
+            return View();  // comment yyyyyyyyyyyyyyyyyyyyyyyyyyyy
         }
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description page.";  // комментарий
 
             return View();
         }
